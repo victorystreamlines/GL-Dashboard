@@ -1,0 +1,13 @@
+I will write prompts in English and you will respond in Arabic, while keeping the application's interface in English by default unless specified otherwise. Let's break down the development into smaller, manageable tasks and review each one together before moving forward. This step-by-step approach will help us maintain control over the workflow and minimize coding issues.
+
+
+
+When executing any task that involves file editing, work must be divided into small chunks not exceeding 150 lines per edit operation. This limit is essential to prevent system limitations and ensure changes are successfully implemented.
+
+Specifically:
+1. Do not add more than 150 lines in any single edit operation
+2. Divide large tasks into several separate steps
+3. Complete modifications gradually, step by step
+4. When encountering an error due to the size of changes, reduce the number of lines by 50%
+
+This rule must be applied to all file editing operations, regardless of file type or task nature.
